@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/1137-n-th-tribonacci-number) |
 ## Two Pointers
@@ -28,10 +29,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/1137-n-th-tribonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
