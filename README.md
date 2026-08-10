@@ -45,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0342-power-of-four) |
+## Array
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/1480-running-sum-of-1d-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
