@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0202-happy-number](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0202-happy-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
