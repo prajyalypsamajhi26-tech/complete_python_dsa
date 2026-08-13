@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0202-happy-number](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0202-happy-number) |
+| [0905-sort-array-by-parity](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0905-sort-array-by-parity) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -52,9 +53,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0905-sort-array-by-parity](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0905-sort-array-by-parity) |
 | [1480-running-sum-of-1d-array](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/1480-running-sum-of-1d-array) |
+## Sorting
+|  |
+| ------- |
+| [0905-sort-array-by-parity](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0905-sort-array-by-parity) |
 <!---LeetCode Topics End-->
