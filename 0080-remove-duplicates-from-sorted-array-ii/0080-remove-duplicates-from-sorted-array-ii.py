@@ -1,8 +1,6 @@
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
-        n = len(nums)
-        if n < 2:
-            return n
+    
         k = 2
         for i in range(2, len(nums)):
             if nums[k-2] != nums[i]:
