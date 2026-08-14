@@ -1,7 +1,5 @@
 class Solution:
     def runningSum(self, nums: List[int]) -> List[int]:
-        
-
         ans=[]
         ans.append(nums[0])
 
