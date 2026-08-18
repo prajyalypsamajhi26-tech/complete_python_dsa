@@ -9,4 +9,3 @@ class Solution:
                 nums[start] = nums[i]
 
         return start + 1
-        
