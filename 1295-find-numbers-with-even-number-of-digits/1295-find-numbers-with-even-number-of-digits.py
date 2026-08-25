@@ -11,6 +11,6 @@ class Solution:
                 temp //= 10
 
             if c%2==0:
-                    ans +=1
+               ans +=1
 
         return ans
