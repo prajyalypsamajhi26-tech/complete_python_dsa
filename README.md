@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0217-contains-duplicate](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0217-contains-duplicate) |
 | [0905-sort-array-by-parity](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0922-sort-array-by-parity-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0217-contains-duplicate) |
 | [0905-sort-array-by-parity](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0922-sort-array-by-parity-ii) |
 ## Divide and Conquer
