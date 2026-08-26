@@ -6,9 +6,9 @@ class Solution:
             temp = nums[i]
             c=0
 
-            while temp >0:
+            while temp>0:
                 c+=1
-                temp//=10
+                temp //=10
 
             if c%2==0:
                 ans += 1
