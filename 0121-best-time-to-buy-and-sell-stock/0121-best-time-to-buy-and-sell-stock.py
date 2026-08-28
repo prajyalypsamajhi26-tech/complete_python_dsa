@@ -6,8 +6,9 @@ class Solution:
         for i in range(1,len(prices)):
             curr_profit = prices[i] - min_prices
 
-            if curr_profit> profit:
+            if curr_profit > profit:
                 profit = curr_profit
+
             min_prices = min(min_prices, prices[i])
 
 
