@@ -4,9 +4,11 @@ class Solution:
         profit = 0
 
         for i in range(1,len(prices)):
-            curr_profit = prices[i]- min_prices
-            if curr_profit > profit:
+            curr_profit = prices[i] - min_prices
+
+            if curr_profit> profit:
                 profit = curr_profit
-            min_prices = min(min_prices,prices[i])
+            min_prices = min(min_prices, prices[i])
+
 
         return profit
