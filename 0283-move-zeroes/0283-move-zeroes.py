@@ -3,11 +3,12 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        ans =[]
+        n = len(nums)
 
-        start =0
-        for i in range(len(nums)):
+        start = 0
+
+        for i in range(n):
             if nums[i] != 0:
-                nums[start], nums[i] = nums[i] , nums[start]
+                nums[start] , nums[i] = nums[i] , nums[start]
 
-                start +=1
+                start += 1
