@@ -5,10 +5,9 @@ class Solution:
 
         for i in range(len(nums)):
             curr_sum += nums[i]
-
-            if curr_sum > max_sub:
+            if curr_sum > max_sub :
                 max_sub = curr_sum 
             if curr_sum <= 0:
-                curr_sum = 0
+                curr_sum =0
 
-        return max_sub 
+        return max_sub
