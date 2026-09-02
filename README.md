@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0342-power-of-four) |
 ## Array
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0905-sort-array-by-parity) |
