@@ -6,6 +6,7 @@ class Solution:
             if nums[i] in seen:
                 return True
 
+
             seen.add(nums[i])
 
 
