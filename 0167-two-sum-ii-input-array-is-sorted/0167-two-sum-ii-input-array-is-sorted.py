@@ -5,7 +5,7 @@ class Solution:
 
         while start < end:
 
-            if numbers[start] + numbers[end] > target:
+            if numbers[start] + numbers[end] > target :
                 end -=1
 
             elif numbers[start] + numbers[end] < target:
