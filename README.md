@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0349-intersection-of-two-arrays) |
+| [0680-valid-palindrome-ii](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0680-valid-palindrome-ii) |
 | [0905-sort-array-by-parity](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0977-squares-of-a-sorted-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0680-valid-palindrome-ii](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0680-valid-palindrome-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0345-reverse-vowels-of-a-string) |
+| [0680-valid-palindrome-ii](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0680-valid-palindrome-ii) |
 ## Binary Search
 |  |
 | ------- |
