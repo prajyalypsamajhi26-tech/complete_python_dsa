@@ -1,10 +1,10 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
-        final=""
+        final=[]
         s=s.lower()
 
         for ele in s:
             if ele.isalnum():
-                final += ele
+                final.append(ele)
 
         return final==final[::-1]
