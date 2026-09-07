@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0922-sort-array-by-parity-ii) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/prajyalypsamajhi26-tech/complete_python_dsa/tree/master/0345-reverse-vowels-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
