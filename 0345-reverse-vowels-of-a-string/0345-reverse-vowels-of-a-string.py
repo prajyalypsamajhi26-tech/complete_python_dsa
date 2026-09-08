@@ -3,19 +3,18 @@ class Solution:
         s = list(s)
 
         left = 0
-        right = len(s) -1
+        right = len(s) - 1
 
         while left < right:
 
             if s[left] not in "aeiouAEIOU":
-                left +=1
+                left += 1
 
             elif s[right] not in "aeiouAEIOU":
                 right -=1
 
             else:
                 s[left] , s[right] = s[right] , s[left]
-
                 left += 1
                 right -=1
 
