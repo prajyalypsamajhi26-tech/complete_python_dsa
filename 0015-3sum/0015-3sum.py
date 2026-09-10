@@ -5,7 +5,6 @@ class Solution:
 
         for i in range(len(nums)):
 
-            # Skip duplicate fixed numbers
             if i > 0 and nums[i] == nums[i - 1]:
                 continue
 
@@ -13,7 +12,6 @@ class Solution:
             right = len(nums) - 1
 
             while left < right:
-
                 total = nums[i] + nums[left] + nums[right]
 
                 if total < 0:
@@ -28,7 +26,6 @@ class Solution:
                     left += 1
                     right -= 1
 
-                    # Skip duplicate left values
                     while left < right and nums[left] == nums[left - 1]:
                         left += 1
 
