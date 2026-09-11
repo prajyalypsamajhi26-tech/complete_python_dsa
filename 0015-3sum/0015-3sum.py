@@ -15,14 +15,14 @@ class Solution:
 
                 total = nums[i] + nums[left] + nums[right]
 
-                if total < 0 :
+                if total < 0:
                     left += 1
 
                 elif total > 0:
                     right -=1
 
                 else:
-                    ans.append([nums[i], nums[left] , nums[right]])
+                    ans.append([nums[i], nums[left], nums[right]])
 
                     left += 1
                     right -=1
@@ -30,4 +30,4 @@ class Solution:
                     while left < right and nums[left] == nums[left - 1]:
                         left += 1
 
-        return ans 
+        return ans
